@@ -4,19 +4,12 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 import com.app.core.Box;
+import com.app.core.Box;
 
 /*
- * Add Box class into "com.app.core"
-Create a tester class  : TestBoxArray in package  "test_arrays"
-
-Objective : Ask user(client) , how many boxes to make ?
-Create suitable array to hold Box type refs.
-
-Accept Box dims 
-
-Store these details suitably.
-1. Display using single for-each loop, box dims n volume
- */
+August code
+test 1
+*/
 public class Test2 {
 
 	public static void main(String[] args) {
