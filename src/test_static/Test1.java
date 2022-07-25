@@ -1,6 +1,6 @@
-package test_static;
+ inpackage test_static;
 
-//ALL static members of the System class
+//facebook instageam change 1
 import static java.lang.Math.PI;
 import static java.lang.Math.sqrt;
 //static import syntax
