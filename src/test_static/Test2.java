@@ -10,10 +10,6 @@ firstweek
 
 
 
-firstweek
-
-
-
 
 */ 
 public class Test2 {
