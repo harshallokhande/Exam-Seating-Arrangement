@@ -1,5 +1,21 @@
 package test_static;
+/*
+firstweek code aug. releasee
 
+belongs to instagram
+
+
+firstweek
+
+
+
+
+firstweek
+
+
+
+
+*/ 
 public class Test2 {
 	private static int a=10;
 	private int b=20;
